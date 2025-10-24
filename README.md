@@ -1,4 +1,4 @@
-## NRF54-Humidity-Controller (nRF52840)
+## BLE-Humidity-Controller (nRF52840)
 BLE-Enabled Humidifier on nRF52840 board using Zephyr and Flutter.
 lets a user set a target RH and automatically toggles the humidifier to keep RH within a ±1% hysteresis band around that target.
 
