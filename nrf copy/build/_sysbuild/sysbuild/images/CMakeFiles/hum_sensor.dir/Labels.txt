@@ -1,0 +1,13 @@
+# Target labels
+ hum_sensor
+# Source files and their labels
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/CMakeFiles/hum_sensor
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/CMakeFiles/hum_sensor.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/CMakeFiles/hum_sensor-complete.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/hum_sensor-prefix/src/hum_sensor-stamp/hum_sensor-build.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/hum_sensor-prefix/src/hum_sensor-stamp/hum_sensor-configure.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/hum_sensor-prefix/src/hum_sensor-stamp/hum_sensor-download.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/hum_sensor-prefix/src/hum_sensor-stamp/hum_sensor-install.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/hum_sensor-prefix/src/hum_sensor-stamp/hum_sensor-mkdir.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/hum_sensor-prefix/src/hum_sensor-stamp/hum_sensor-patch.rule
+/Users/namujhp/nordic/projects/hum_sensor/build/_sysbuild/sysbuild/images/hum_sensor-prefix/src/hum_sensor-stamp/hum_sensor-update.rule

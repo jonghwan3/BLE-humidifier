@@ -1,0 +1,7 @@
+default: hum_sensor
+build_dir: /Users/namujhp/nordic/projects/hum_sensor/build
+domains:
+  - name: hum_sensor
+    build_dir: /Users/namujhp/nordic/projects/hum_sensor/build/hum_sensor
+flash_order:
+  - hum_sensor

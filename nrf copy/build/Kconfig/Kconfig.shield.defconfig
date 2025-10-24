@@ -1,0 +1,2 @@
+osource "/opt/nordic/ncs/blinky_2/boards/shields/*/Kconfig.defconfig"
+osource "/opt/nordic/ncs/v2.9.2/nrf/boards/shields/*/Kconfig.defconfig"
