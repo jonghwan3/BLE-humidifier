@@ -13,8 +13,6 @@ https://github.com/user-attachments/assets/4c73f07e-5874-40eb-8b59-4fa3f24a8939
 
 ### PCB design
 <img width="523" height="519" alt="image" src="https://github.com/user-attachments/assets/25b606c9-499e-4d84-9e32-0105b460837a" />
-<img width="683" height="399" alt="image" src="https://github.com/user-attachments/assets/cb700d24-9794-4a5c-937b-21af842dceea" />
-
 
 ### Design decisions
 - Optocoupler (4N25): Provides galvanic isolation between the STM32 (3.3 V logic) and the humidifier’s circuit, protecting the MCU from voltage spikes or unknown transients.
